@@ -7,6 +7,7 @@ using System.Web.Http;
 
 namespace REST_WinformDEMO.Controllers
 {
+    // RESTful Controller
     public class ValuesController : ApiController
     {
         // GET api/values
@@ -24,16 +25,19 @@ namespace REST_WinformDEMO.Controllers
         // POST api/values
         public void Post([FromBody] string value)
         {
+
         }
 
         // PUT api/values/5
         public void Put(int id, [FromBody] string value)
         {
+
         }
 
         // DELETE api/values/5
         public void Delete(int id)
         {
+
         }
     }
 }
