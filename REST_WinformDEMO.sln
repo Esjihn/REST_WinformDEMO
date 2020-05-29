@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "REST_WinformDEMO", "REST_WinformDEMO\REST_WinformDEMO.csproj", "{484540AB-284D-4B21-B997-494947402EE7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "REST_WeatherApp", "REST_WeatherApp\REST_WeatherApp.csproj", "{D0DE54E4-B184-45A2-BD24-75263B59EE88}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{484540AB-284D-4B21-B997-494947402EE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{484540AB-284D-4B21-B997-494947402EE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{484540AB-284D-4B21-B997-494947402EE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0DE54E4-B184-45A2-BD24-75263B59EE88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0DE54E4-B184-45A2-BD24-75263B59EE88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0DE54E4-B184-45A2-BD24-75263B59EE88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0DE54E4-B184-45A2-BD24-75263B59EE88}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
